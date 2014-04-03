@@ -59,7 +59,7 @@ class parseRestClient{
 ```
 
 
-EXAMPLE DE UMA ACTION
+Sample Action
 =========================
 ### Mover este arquivo Module.php para o módulo da sua aplicação ./module/Application/Module.php ### 
 ### sample of IndexController.php ###
