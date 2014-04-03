@@ -2,6 +2,11 @@ PHP parse.com API library
 ===========================
 More on the parse.com api here: https://www.parse.com/docs/rest
 
+PHP parse.com API library Version Zend Framework 2
+===========================
+More on the vendor
+
+
 ### V1 is still available ###
 Availalbe here: https://github.com/apotropaic/parse.com-php-library/blob/parse.com-php-library_v1/README.md
 
