@@ -61,8 +61,8 @@ class parseRestClient{
 
 Sample Action
 =========================
-### Mover este arquivo Module.php para o módulo da sua aplicação ./module/Application/Module.php ### 
-### sample of IndexController.php ###
+**Mover este arquivo Module.php para o módulo da sua aplicação ./module/Application/Module.php**
+**sample of IndexController.php**
 
 ```
 
