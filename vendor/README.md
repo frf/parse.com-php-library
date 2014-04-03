@@ -13,7 +13,7 @@ Se tiver idéias ou dúvidas entre em contato
 SETUP
 =========================
 
-*** Arquivos em example Module.php e IndexController.php
+** Arquivos em example Module.php e IndexController.php **
 
 
 Alterar as configurações na class **parseRestClient.php**
@@ -39,7 +39,7 @@ class parseRestClient{
 ### Após configurar suas chaves adicionar no módulo da sua aplicação ###
 
 
-*** Mover este arquivo Module.php para o módulo da sua aplicação ./module/Application/Module.php, ou copiar apenas a linha do ParseCloud
+** Mover este arquivo Module.php para o módulo da sua aplicação ./module/Application/Module.php, ou copiar apenas a linha do ParseCloud **
 
 ```
 
