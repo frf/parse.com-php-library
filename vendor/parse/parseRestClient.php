@@ -4,9 +4,9 @@ namespace ParseCloud;
 
 class parseRestClient{
 
-        const APPID = 'W84ve2WEofX0DZixWm2ibeLC33Zpvh0sQobXfyMR';
-        const MASTERKEY = 'gx9d5R9QSpWf2K6UA2siBPCzSkEuEww38Bch7Ane';
-        const RESTKEY = 'TMDG338Rkd9Oh7pNKoJGW8vnEQrE3GJGvfKzDEgo';
+        const APPID = '';
+        const MASTERKEY = '';
+        const RESTKEY = '';
         const PARSEURL = 'https://api.parse.com/1/';
     
 	private $_appid = '';
